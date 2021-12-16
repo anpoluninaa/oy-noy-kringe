@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aab6461-fa00-4033-954f-47107e2dfd8f": {
+      "ProjectGuid": "8aab6461-fa00-4033-954f-47107e2dfd8f",
+      "DisplayName": "вывод массива в обратном порядке",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

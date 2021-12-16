@@ -1,0 +1,16 @@
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\Homework2_num1.exe
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\Homework2_num1.deps.json
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\Homework2_num1.runtimeconfig.json
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\Homework2_num1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\ref\Homework2_num1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\bin\Debug\net6.0\Homework2_num1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.GlobalUsings.g.cs
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.csproj.AssemblyReference.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.AssemblyInfoInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.AssemblyInfo.cs
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.csproj.CoreCompileInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\ref\Homework2_num1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework2_num1\Homework2_num1\obj\Debug\net6.0\Homework2_num1.genruntimeconfig.cache

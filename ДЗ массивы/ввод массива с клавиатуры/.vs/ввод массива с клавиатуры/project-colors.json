@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad1616f8-d4fc-4b2e-a338-6d6867dcee5f": {
+      "ProjectGuid": "ad1616f8-d4fc-4b2e-a338-6d6867dcee5f",
+      "DisplayName": "ввод массива с клавиатуры",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

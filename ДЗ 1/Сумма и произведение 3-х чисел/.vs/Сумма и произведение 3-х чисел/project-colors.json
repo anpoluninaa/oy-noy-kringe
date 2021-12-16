@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb84e061-efc3-4606-88df-118d389a64bd": {
+      "ProjectGuid": "cb84e061-efc3-4606-88df-118d389a64bd",
+      "DisplayName": "Сумма и произведение 3-х чисел",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

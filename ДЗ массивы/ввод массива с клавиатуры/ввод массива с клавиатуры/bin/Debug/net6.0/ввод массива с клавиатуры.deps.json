@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ввод массива с клавиатуры/1.0.0": {
+        "runtime": {
+          "ввод массива с клавиатуры.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ввод массива с клавиатуры/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.GlobalUsings.g.cs
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.csproj.AssemblyReference.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.AssemblyInfoInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.AssemblyInfo.cs
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.csproj.CoreCompileInputs.cache
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\Homework3_1.exe
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\Homework3_1.deps.json
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\Homework3_1.runtimeconfig.json
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\Homework3_1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\ref\Homework3_1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\bin\Debug\net6.0\Homework3_1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\ref\Homework3_1.dll
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.pdb
+C:\Users\polun\OneDrive\Рабочий стол\си шарп ютуб дз\ДЗ2\Homework3_1\Homework3_1\obj\Debug\net6.0\Homework3_1.genruntimeconfig.cache
